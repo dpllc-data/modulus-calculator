@@ -1,7 +1,7 @@
 <!-- Headings -->
 # Modular Math Calculator
 ___
-## URL: (none currently)
+## URL: (tested on DigitalOcean, but not currently in production)
 ## Author: Stan Shelton
 ## Email: support@datapandemonium.com
 ### Data Panda LLC is a database and database services company
